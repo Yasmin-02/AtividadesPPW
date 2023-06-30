@@ -1,0 +1,22 @@
+body {
+    color: #007e7e;
+}
+h3, h4 {
+    font-style: arial;
+}
+.verde {
+    color:green;
+}
+.azul {
+    color: blue;
+}
+.roxo {
+    color: blueviolet;
+}
+.vermelho {
+    color: rgb(183, 24, 24);
+}
+.cinza {
+    color: grey;
+    text-align: center;
+}

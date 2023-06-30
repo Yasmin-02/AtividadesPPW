@@ -1,0 +1,23 @@
+body {
+    background-image: url(../imgs/fundo_final.jpg);
+    color:antiquewhite;
+    margin-left: 10px;
+    margin-right: 10px;
+.topo {
+    background-color:antiquewhite;
+    text-align: right;
+    color:black;
+    font-size: 25px;
+}
+.texto {
+    text-align:justify;
+    font-weight: bold;
+    font-size: 20px;
+}
+.txt_ultimo {
+    text-align: left;
+    background-color: antiquewhite;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}

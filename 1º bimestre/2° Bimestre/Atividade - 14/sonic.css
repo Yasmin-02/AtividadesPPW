@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(lightblue, white);
+}
+.run {
+    animation-name: sonic;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    margin-left: 50px;
+}
+
+.cloud {
+    animation-name: cloud;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    margin-bottom: 90px;
+}
+
+@keyframes sonic {
+   from{
+    transform: translateX(-1px);
+   }
+   to{
+    transform: translateX(1px);
+   }
+}
+@keyframes cloud {
+    from {
+        transform: translateX(1500px)
+    }
+    to {
+        transform: translateX(-1300px);
+    }
+}

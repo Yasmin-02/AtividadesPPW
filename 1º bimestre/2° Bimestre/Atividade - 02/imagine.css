@@ -1,0 +1,19 @@
+body {
+    color: maroon;
+    font-family: arial;
+}
+h2 {
+    text-align: left;
+}
+p.primeiroPrgf, p.sgndPrgf  {
+    font-size: 12px;
+    text-align: left;
+}
+p.trcPrgf, p.sxtPrgf {
+    text-align: center;
+    font-size: 12px;
+}
+p.qrtPrgf {
+    text-align: right;
+    font-size: 12px;
+}

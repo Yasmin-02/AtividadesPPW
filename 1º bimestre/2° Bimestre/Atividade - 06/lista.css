@@ -1,0 +1,26 @@
+body {
+    color: darkblue;
+    text-align: left;
+}
+.quadrado {
+    list-style-type: square;
+}
+.circulo {
+    list-style-type: circle;
+}
+.disco {
+    list-style-type: disc;
+}
+.img {
+    list-style-image: url(../imgs/seta_azul.gif);
+}
+.decimal {
+    list-style-type: decimal;
+}
+.romana {
+    list-style-type: lower-roman;
+}
+.alfabeto {
+    list-style-type: lower-alpha
+    ;
+}
